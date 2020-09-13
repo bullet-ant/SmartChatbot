@@ -1,0 +1,867 @@
+{
+  "intents": [
+    {
+      "intent": "About_Watch",
+      "examples": [
+        {
+          "text": "you provide information about iWatch too?"
+        },
+        {
+          "text": "you know the functioning of the watch too?"
+        },
+        {
+          "text": "you can tell about watch?"
+        },
+        {
+          "text": "can you tell about watch too?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Product_Information",
+      "examples": [
+        {
+          "text": "How to see photos on my watch?"
+        },
+        {
+          "text": "Is there a Maps feature?"
+        },
+        {
+          "text": "Can my watch monitor my heartbeat?"
+        },
+        {
+          "text": "Could it be useful in navigating?"
+        },
+        {
+          "text": "How to see messages in my watch?"
+        },
+        {
+          "text": "How to recieve call on my iWatch?"
+        },
+        {
+          "text": "how to track heartbeat?"
+        },
+        {
+          "text": "how to see notifications you havent attended to?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Menus",
+      "examples": [
+        {
+          "text": "what are the products available in your store?"
+        },
+        {
+          "text": "What are the products available?"
+        },
+        {
+          "text": "What are the watches available?"
+        },
+        {
+          "text": "Do you offer a prix fixe option?"
+        },
+        {
+          "text": "What are you specialized at?"
+        },
+        {
+          "text": "Are there any specials today?"
+        },
+        {
+          "text": "Do you have iWatch 5?"
+        },
+        {
+          "text": "What are you selling right now?"
+        },
+        {
+          "text": "Do you have the latest iWatch?"
+        },
+        {
+          "text": "What are the models available?"
+        },
+        {
+          "text": "third"
+        },
+        {
+          "text": "Do you have iWatch 4?"
+        },
+        {
+          "text": "Do you have iWatch 3?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Yes",
+      "examples": [
+        {
+          "text": "Yup"
+        },
+        {
+          "text": "that is correct."
+        },
+        {
+          "text": "Please do that."
+        },
+        {
+          "text": "You've got it right."
+        },
+        {
+          "text": "Yes"
+        },
+        {
+          "text": "Please do."
+        },
+        {
+          "text": "Correct"
+        },
+        {
+          "text": "That's right"
+        },
+        {
+          "text": "yeah"
+        },
+        {
+          "text": "Yes, I'd like to go ahead with that."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "Time to go"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "I am out of here"
+        },
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "I have got to go"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "That is all"
+        }
+      ],
+      "description": "End the conversation."
+    },
+    {
+      "intent": "About_Store",
+      "examples": [
+        {
+          "text": "i want to know about you"
+        },
+        {
+          "text": "who are the store owners and what is their philosophy?"
+        },
+        {
+          "text": "Who is your head and what's his story?"
+        },
+        {
+          "text": "How many locations do you have?"
+        },
+        {
+          "text": "Do you deliver?"
+        },
+        {
+          "text": "Where do you source your products"
+        },
+        {
+          "text": "Are you selling iWatches?"
+        },
+        {
+          "text": "do you only sell watches or do repairing too?"
+        },
+        {
+          "text": "What's your story?"
+        },
+        {
+          "text": "Tell me about the store"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_About_You",
+      "examples": [
+        {
+          "text": "Do you know who you are?"
+        },
+        {
+          "text": "How do you function?"
+        },
+        {
+          "text": "How old are you?"
+        },
+        {
+          "text": "I want to set up the chat bot for my shop"
+        },
+        {
+          "text": "Introduce your self"
+        },
+        {
+          "text": "Let us talk about you"
+        },
+        {
+          "text": "Do you have a name?"
+        },
+        {
+          "text": "Tell me about your life"
+        },
+        {
+          "text": "Tell me something about yourself"
+        },
+        {
+          "text": "What languages do you speak?"
+        },
+        {
+          "text": "What's your name?"
+        },
+        {
+          "text": "What should I know about you?"
+        },
+        {
+          "text": "Where are you from?"
+        },
+        {
+          "text": "Where were you born?"
+        },
+        {
+          "text": "Who are you?"
+        },
+        {
+          "text": "Why are you here?"
+        },
+        {
+          "text": "What can you do?"
+        },
+        {
+          "text": "Describe your self"
+        },
+        {
+          "text": "Can I use another language?"
+        },
+        {
+          "text": "About you"
+        },
+        {
+          "text": "How can I configure you?"
+        }
+      ],
+      "description": "Request generic personal attributes."
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "You there"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good evening"
+        }
+      ],
+      "description": "Greet the bot."
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Menus",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "four",
+          "synonyms": [
+            "the forth version",
+            "second one",
+            "iWatch 4",
+            "four"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "three",
+          "synonyms": [
+            "first one",
+            "the third version",
+            "iWatch 3",
+            "3",
+            "three"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "five",
+          "synonyms": [
+            "the last one",
+            "the third one",
+            "iWatch 5",
+            "five",
+            "fifth version"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "webhooks": [
+    {
+      "url": "https://eu-gb.functions.cloud.ibm.com/api/v1/web/si05202000362%40smartinternz.com_dev/default/DiscoveryAssistant.json",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The standout feature of the Apple Watch Series 5 is its always-on display. The screen becomes brighter and shows more data when it's active, and dims but stays on when inactive. The transition is pretty smooth when using almost any watch face, and it looks really cool.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/01/Shift-Keyboard-Apple-Watch-App.png?w=2000&quality=82&strip=all&ssl=1",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "For more info visit the official page: <a href=\"https://www.apple.com/in/apple-watch-series-5/\" target=\"blank\">iWatch Series 5</a> "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1590497844521",
+      "conditions": "@Menus:five",
+      "dialog_node": "node_2_1590498458533",
+      "previous_sibling": "node_7_1590498537784"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The Apple Watch Series 4 offers a larger, crisp display that shows more with less bezel, super fast speed and a louder speaker. It adds high and low heart-rate detection, fall detection with SOS trigger and an FDA-cleared ECG app for more detailed heart readings."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=300,height=300,quality=75,format=auto,fit=cover,g=top/in-resources/c5eb5745-bde1-4c15-87b7-f2b3df7c08d3/Images/ProductImages/Source/MTVJ2HN_A_1.png",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "For more info visit the official page: <a href=\"https://www.apple.com/in/apple-watch-series-4/\" target=\"blank\">iWatch Series 4(discontinued)</a> "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1590497844521",
+      "conditions": "@Menus:four",
+      "dialog_node": "node_7_1590498537784",
+      "previous_sibling": "node_8_1590498498738"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Apple Watch Series 3 now comes with built-in cellular support. Whether users are out for a run, at the pool or just trying to be more active throughout their day, Apple Watch Series 3 with cellular allows them to stay connected, make calls, receive texts and more, even without iPhone nearby."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/alu-silver-sport-white-s3-2up_gps_varend?wid=470&hei=556&fmt=png-alpha&.v=1573757519622",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "For more info visit the official page: <a href=\"https://www.apple.com/in/apple-watch-series-3/\" target=\"blank\">iWatch Series 3</a> "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1590497844521",
+      "conditions": "@Menus:three",
+      "dialog_node": "node_8_1590498498738"
+    },
+    {
+      "type": "response_condition",
+      "parent": "node_1_1592028471209",
+      "conditions": "anything_else",
+      "dialog_node": "response_3_1592035276142",
+      "previous_sibling": "response_10_1592035269997"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<?$webhook_result_1.passages[0].passage_text?>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1592028471209",
+      "conditions": "$webhook_result_1",
+      "dialog_node": "response_10_1592035269997"
+    },
+    {
+      "type": "standard",
+      "title": "Ask_About_Product",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "input": "<?input_text?>"
+          },
+          "result_variable": "webhook_result_1"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Product_Information",
+      "dialog_node": "node_1_1592028471209",
+      "previous_sibling": "node_8_1590497572930"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Have a nice day! Tata!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#General_Ending",
+      "dialog_node": "node_2_1590497452284",
+      "previous_sibling": "node_8_1590497844521"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<center>Imagine Store</center>\n<hr>\nShowcasing the entire Apple product line in a customer-friendly environment, Imagine is an Apple Premium Reseller operated by Ample technologies, one of the most preferred technology solutions provider present across major cities in India. Ample owns and operates multiple formats of retail across India."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://systematixmedia.com/wp-content/uploads/2017/10/Acropolis-Mall1.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#About_Store",
+      "dialog_node": "node_8_1590497572930",
+      "previous_sibling": "node_10_1592137439872"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am a virtual assistant that is designed to answer your questions about Imagine store and also your queries about the iWatch!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#General_About_You",
+      "dialog_node": "node_7_1590505455837",
+      "previous_sibling": "node_5_1590497350400"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello there! Good to see you here. How can i help you today?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#General_Greetings",
+      "dialog_node": "node_5_1590497350400",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yup sure I can tell about the iWatch! Give it a try!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#About_Watch",
+      "dialog_node": "node_10_1592137439872",
+      "previous_sibling": "node_7_1590505455837"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Currently we offer following products. In which product are you interested?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Which menu do you want to see?",
+            "options": [
+              {
+                "label": "iWatch Series 3",
+                "value": {
+                  "input": {
+                    "text": "three"
+                  }
+                }
+              },
+              {
+                "label": "iWatch Series 4",
+                "value": {
+                  "input": {
+                    "text": "four"
+                  }
+                }
+              },
+              {
+                "label": "iWatch Series 5",
+                "value": {
+                  "input": {
+                    "text": "five"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#Menus",
+      "dialog_node": "node_8_1590497844521",
+      "previous_sibling": "node_1_1592028471209"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_2_1590497452284",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hey there! Welcome to Imagine Store!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [
+    {
+      "text": "how to track heartbeat?"
+    }
+  ],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Imagine Store Helper",
+  "language": "en",
+  "description": ""
+}
